@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! Me chamo Diógenes! 👋
 
 - 🔭 Eu estou em transição de carreira, buscando uma oportunidade na área de TI
 - 🌱 Atualmente estou estudando Back End com C# .NET e já tirei a certificação em nuvem da Microsoft AZ-900
