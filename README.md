@@ -1,7 +1,11 @@
 ### Olá! Me chamo Diógenes! 👋
 
 - 🔭 Eu estou em transição de carreira, buscando uma oportunidade na área de TI
-- 🌱 Atualmente estou estudando Back End com C# .NET e já tirei a certificação em nuvem da Microsoft AZ-900
+- 🌱 Atualmente estou estudando Back End com C# .NET e tenho as seguintes certificações em nuvem:
+- 
+* Microsoft AZ-900
+* AWS Cloud Practitioner (CLF-C01)
+-
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Gosto de Jogos eletrônicos e Animes!!! Mas eu gosto de Surf também, o problema é que agora água está muito gelada!!! rsrsrs...
   
