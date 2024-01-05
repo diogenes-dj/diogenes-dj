@@ -3,8 +3,8 @@
 - 🔭 Eu estou em transição de carreira, buscando uma oportunidade na área de TI
 - 🌱 Atualmente estou estudando Back End com C# .NET e tenho as seguintes certificações em nuvem:
 - 
-* Microsoft AZ-900 (Valildade 2026)
-* AWS Cloud Practitioner (CLF-C01) (Valildade 2026)
+* Microsoft AZ-900 (Válido até 2026)
+* AWS Cloud Practitioner (CLF-C01) (Válido até 2026)
 -
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Gosto de Jogos eletrônicos e Animes!!! Mas eu gosto de Surf também, o problema é que agora água está muito gelada!!! rsrsrs...
